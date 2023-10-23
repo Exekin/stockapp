@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/', (req, res) =>  {
     console.log('peticion recibida')
-    res.send('HOLA MUNDO con el script DEV')
+    res.send('HOLA MUNDO con el script DEV y Erwin')
 })
 
 app.listen(4000,() => {
