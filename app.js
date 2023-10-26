@@ -5,7 +5,7 @@ const app = express()
 
 app.get('/', (req, res) =>  {
     console.log('peticion recibida')
-    res.send('HOLA MUNDO con el script DEV y Erwin')
+    res.send('HOLA con el script DEV y Erwin, se modifica el gitignore')
 })
 
 const PORT = process.env.PORT
