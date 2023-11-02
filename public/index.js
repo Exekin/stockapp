@@ -1,0 +1,1 @@
+console.log("esta es la consola de JavaScript")
