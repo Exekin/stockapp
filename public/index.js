@@ -1,1 +1,3 @@
-console.log("esta es la consola de JavaScript")
+const h1 = document.querySelector('h1')
+
+console.log(h1)
