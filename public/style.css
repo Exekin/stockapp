@@ -1,3 +1,9 @@
-h1 {
-    color: #07a85a;
+.form-container {
+    display: flex;
+    flex-direction: column;   
+    max-width: 20rem;
+}
+
+input {
+    margin-bottom: 0.5rem;
 }
