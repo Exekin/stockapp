@@ -18,7 +18,7 @@ app.listen(PORT, () => {
 })
     .catch((err) => console.log('error'))
 
-// console.log('Hola a todos')
+    console.log('Hola a todos')
 
 const productsSchema = mongoose.Schema(
     {
